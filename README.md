@@ -1,4 +1,5 @@
 # wp-cs
 ClassySalon
 
-test upload 
+test upload
+テストブランチにて対応
